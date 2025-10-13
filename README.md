@@ -68,6 +68,13 @@ I manage my personal <a href="https://play.google.com/store/apps/developer?id=Fu
   - UI/UX Design
   - Responsive Design
  
+<h2>👨‍💻 Learning Projects</h2>
+<ul>
+  <li>
+   <h3><a href = "https://github.com/meassadkhan/PAGING_MVVM_RETRO_COIL_DI_FLOW"> Paging, MVVM, RETROFIT, COIL, DI, FLOW</h3>
+  </li>
+</ul>
+ 
 <!-- <h1>🤖 Android Development</h1>
 <ul>
   <li><b>Programming Languages & Concepts:</b> Kotlin, Java, C++, OOP, Design Patterns, Software Design</li>
