@@ -68,11 +68,21 @@ I manage my personal <a href="https://play.google.com/store/apps/developer?id=Fu
   - UI/UX Design
   - Responsive Design
  
+<h2>📄 Certifications </h2>
+ - <a href="https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-4-pathway-2/" target="_blank">
+    Google Navigation In Compose CodeLab
+  </a>
+ - <a href="https://www.udemy.com/course/androidmvvm/?srsltid=AfmBOorZftJbcpxkZvK1nBsW8Hhr0cD4zCoRzQcaALC4jwRb6ihkiUCR&couponCode=UPGRADE02223#instructor-1" target="_blank">
+    Android MVVM Architecture
+  </a> 
 
-<h2>⚙️ Professional Skills</h2>
+  
+ 
+
+<!-- <h2>⚙️ Professional Skills</h2>
 
 <!-- Android Skills -->
-<h1>🤖 Android Development</h1>
+<!-- <h1>🤖 Android Development</h1>
 <ul>
   <li><b>Programming Languages & Concepts:</b> Kotlin, Java, C++, OOP, Design Patterns, Software Design</li>
   <li><b>Architecture & Patterns:</b> MVVM, MVI</li>
@@ -83,27 +93,27 @@ I manage my personal <a href="https://play.google.com/store/apps/developer?id=Fu
   <li><b>Performance & Testing:</b> Debugging, Profiling, Crashlytics, Unit & Integration Testing</li>
   <li><b>Deployment & CI/CD:</b> Play Store Console, App Publishing, GitHub Actions</li>
   <li><b>Agile & Collaboration:</b> Agile Methodologies, Sprint Planning, Code Reviews, Mentoring Juniors, Team Communication</li>
-</ul>
+</ul> -->
 
 <!-- Flutter Skills -->
-<h1>💙 Flutter Development</h1>
+<!-- <h1>💙 Flutter Development</h1>
 <ul>
   <li><b>Programming Languages & Concepts:</b> Dart, OOP, Design Patterns, Software Design</li>
   <li><b>Architecture & Patterns:</b> State Management (GetX, Provider, Bloc, Riverpod)</li>
   <li><b>Frameworks & Libraries:</b> Dio, Http, Firebase (Auth, Firestore, Analytics, Crashlytics)</li>
   <li><b>UI/UX Development:</b> Flutter Widgets, Material Design, Responsive Layouts, Figma</li>
   <li> RESTful APIs, JSON, Firebase, Google AdMob, Push Notifications</li>
-</ul>
+</ul> -->
 
 <!-- OFFICE & PROFESSIONAL SKILLS -->
-<h1>🧰 Office & Professional Skills</h1>
+<!-- <h1>🧰 Office & Professional Skills</h1>
 <ul>
   <li>Good Communication, Team Collaboration, Problem Solving, Requirement Analysis</li>
   <li>Project Management, Time Management, Client Handling, Documentation</li>
   <li>Task Prioritization, Work Under Pressure, Adaptability, Critical Thinking</li>
   <li>Presentation, MS Office (Word, Excel, PowerPoint), Reporting, Agile & Scrum</li>
   <li>Mentorship, Meeting Coordination</li>
-</ul>
+</ul> -->
 
  
 
