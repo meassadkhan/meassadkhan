@@ -68,13 +68,38 @@ I manage my personal <a href="https://play.google.com/store/apps/developer?id=Fu
   - UI/UX Design
   - Responsive Design
  
+<!-- <h1>🤖 Android Development</h1>
+<ul>
+  <li><b>Programming Languages & Concepts:</b> Kotlin, Java, C++, OOP, Design Patterns, Software Design</li>
+  <li><b>Architecture & Patterns:</b> MVVM, MVI</li>
+  <li><b>Frameworks & Libraries:</b> Android Jetpack (Room, DataStore, Navigation, WorkManager), Hilt, Retrofit, Coroutines, Flow, LiveData</li>
+  <li><b>UI/UX Development:</b> XML, Jetpack Compose, Material Design, Responsive Layouts, Figma</li>
+  <li><b>APIs & Integrations:</b> RESTful APIs, JSON, Firebase (Auth, Firestore, Analytics, Crashlytics, Remote Config), Google AdMob, Google Billing, Google Map SDK, Push Notifications</li>
+  <li><b>Tools & Platforms:</b> Android Studio, Git, GitHub, GitLab, Jira, Postman, Slack</li>
+  <li><b>Performance & Testing:</b> Debugging, Profiling, Crashlytics, Unit & Integration Testing</li>
+  <li><b>Deployment & CI/CD:</b> Play Store Console, App Publishing, GitHub Actions</li>
+  <li><b>Agile & Collaboration:</b> Agile Methodologies, Sprint Planning, Code Reviews, Mentoring Juniors, Team Communication</li>
+</ul> -->
+ 
 <h2>📄 Certifications </h2>
- - <a href="https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-4-pathway-2/" target="_blank">
+<ul>
+ <li> <a href="https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-4-pathway-2/" target="_blank">
     Google Navigation In Compose CodeLab
-  </a>
- - <a href="https://www.udemy.com/course/androidmvvm/?srsltid=AfmBOorZftJbcpxkZvK1nBsW8Hhr0cD4zCoRzQcaALC4jwRb6ihkiUCR&couponCode=UPGRADE02223#instructor-1" target="_blank">
+  </a></li>
+ <li> <a href="https://www.udemy.com/course/androidmvvm/?srsltid=AfmBOorZftJbcpxkZvK1nBsW8Hhr0cD4zCoRzQcaALC4jwRb6ihkiUCR&couponCode=UPGRADE02223#instructor-1" target="_blank">
     Android MVVM Architecture
-  </a> 
+  </a> </li>
+
+  <li> <a href="https://lms.digiskills.pk/" target="_blank">
+    SEO (Search Engine Optimization)  
+  </a> </li>
+
+   <li> <a href="https://lms.digiskills.pk/" target="_blank">
+    WordPress  
+  </a> </li>
+</ul>
+
+  
 
   
  
