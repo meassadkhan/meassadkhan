@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Mobile App Projects:</h2>
 
-- <b> <a href="https://play.google.com/store/apps/details?id=com.example.cloudstorage" target="_blank"> Cloud Storage - Backup & Restore App</a></b>
+- <b> <a href="https://play.google.com/store/apps/details?id=com.cloudstorage.mycloud.storagespace.cloudapp" target="_blank"> Cloud Storage - Backup & Restore App</a></b> (1M+ Installs)
 
   - RESTful API
   - Retrofit
@@ -25,11 +25,11 @@
 - <b>Ai Text to Image</b>
   - Api integration
   - Edin Ai
-- <b><a href = "http://play.google.com/store/apps/details?id=com.events.invitation.stylishcardmaker.free&pcampaignid=web_share"> Stylish Cards Maker App</b>
+- <b><a href = "http://play.google.com/store/apps/details?id=com.events.invitation.stylishcardmaker.free&pcampaignid=web_share"> Stylish Cards Maker App</b> (1M+ Installs)
   - Play Asset Delivery (Reduce 40% app size)
   - Custom views
   - Responsive design
-- <b><a href ="https://play.google.com/store/apps/details?id=com.niam.smartswitch.phonecloneapp.easytransfer&hl=en">Smart Switch Data Transfer App</b>
+- <b><a href ="https://play.google.com/store/apps/details?id=com.niam.smartswitch.phonecloneapp.easytransfer&hl=en">Transfer All Data - PhoneClone App</b> (5M+ Installs)
   - Android Sockets
   - Wifi Manager
   - Peer-to-peer connection
@@ -44,7 +44,7 @@
     - Call Screen Service
     - Backend integration
     
-- <b><a href ="http://play.google.com/store/apps/details?id=com.battery.charging.animation.screen&hl=en">Battery Charging Animaations App</b>
+- <b><a href ="http://play.google.com/store/apps/details?id=com.battery.charging.animation.screen&hl=en">Battery Charging Animaation App</b> (10M+ Installs)
   - Android SDKs
   - Background Services
   - Animations
