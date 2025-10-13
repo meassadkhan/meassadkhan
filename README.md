@@ -1,42 +1,5 @@
 <h1>Hi, I'm Assad! <br/><a href="https://github.com/meassadkhan">Programmer</a>, <a href="https://www.linkedin.com/in/assadkhanmobileappdeveloper/">Mobile Application Developer (Android & Flutter)</a></h1>
 
-<h2>⚙️ Professional Skills</h2>
-
-<!-- Android Skills -->
-<h1>🤖 Android Development</h1>
-<ul>
-  <li><b>Programming Languages & Concepts:</b> Kotlin, Java, C++, OOP, Design Patterns, Software Design</li>
-  <li><b>Architecture & Patterns:</b> MVVM, MVI</li>
-  <li><b>Frameworks & Libraries:</b> Android Jetpack (Room, DataStore, Navigation, WorkManager), Hilt, Retrofit, Coroutines, Flow, LiveData</li>
-  <li><b>UI/UX Development:</b> XML, Jetpack Compose, Material Design, Responsive Layouts, Figma</li>
-  <li><b>APIs & Integrations:</b> RESTful APIs, JSON, Firebase (Auth, Firestore, Analytics, Crashlytics, Remote Config), Google AdMob, Google Billing, Google Map SDK, Push Notifications</li>
-  <li><b>Tools & Platforms:</b> Android Studio, Git, GitHub, GitLab, Jira, Postman, Slack</li>
-  <li><b>Performance & Testing:</b> Debugging, Profiling, Crashlytics, Unit & Integration Testing</li>
-  <li><b>Deployment & CI/CD:</b> Play Store Console, App Publishing, GitHub Actions</li>
-  <li><b>Agile & Collaboration:</b> Agile Methodologies, Sprint Planning, Code Reviews, Mentoring Juniors, Team Communication</li>
-</ul>
-
-<!-- Flutter Skills -->
-<h1>💙 Flutter Development</h1>
-<ul>
-  <li><b>Programming Languages & Concepts:</b> Dart, OOP, Design Patterns, Software Design</li>
-  <li><b>Architecture & Patterns:</b> State Management (GetX, Provider, Bloc, Riverpod)</li>
-  <li><b>Frameworks & Libraries:</b> Dio, Http, Firebase (Auth, Firestore, Analytics, Crashlytics)</li>
-  <li><b>UI/UX Development:</b> Flutter Widgets, Material Design, Responsive Layouts, Figma</li>
-  <li> RESTful APIs, JSON, Firebase, Google AdMob, Push Notifications</li>
-</ul>
-
-<!-- OFFICE & PROFESSIONAL SKILLS -->
-<h1>🧰 Office & Professional Skills</h1>
-<ul>
-  <li>Good Communication, Team Collaboration, Problem Solving, Requirement Analysis</li>
-  <li>Project Management, Time Management, Client Handling, Documentation</li>
-  <li>Task Prioritization, Work Under Pressure, Adaptability, Critical Thinking</li>
-  <li>Presentation, MS Office (Word, Excel, PowerPoint), Reporting, Agile & Scrum</li>
-  <li>Mentorship, Meeting Coordination</li>
-</ul>
-
-
 <h2>👨‍💻 Mobile App Projects:</h2>
 
 - <b> <a href="https://play.google.com/store/apps/details?id=com.example.cloudstorage" target="_blank"> Cloud Storage - Backup & Restore App</a></b>
@@ -104,6 +67,44 @@ I manage my personal <a href="https://play.google.com/store/apps/developer?id=Fu
   - Hive Database
   - UI/UX Design
   - Responsive Design
+ 
+
+<h2>⚙️ Professional Skills</h2>
+
+<!-- Android Skills -->
+<h1>🤖 Android Development</h1>
+<ul>
+  <li><b>Programming Languages & Concepts:</b> Kotlin, Java, C++, OOP, Design Patterns, Software Design</li>
+  <li><b>Architecture & Patterns:</b> MVVM, MVI</li>
+  <li><b>Frameworks & Libraries:</b> Android Jetpack (Room, DataStore, Navigation, WorkManager), Hilt, Retrofit, Coroutines, Flow, LiveData</li>
+  <li><b>UI/UX Development:</b> XML, Jetpack Compose, Material Design, Responsive Layouts, Figma</li>
+  <li><b>APIs & Integrations:</b> RESTful APIs, JSON, Firebase (Auth, Firestore, Analytics, Crashlytics, Remote Config), Google AdMob, Google Billing, Google Map SDK, Push Notifications</li>
+  <li><b>Tools & Platforms:</b> Android Studio, Git, GitHub, GitLab, Jira, Postman, Slack</li>
+  <li><b>Performance & Testing:</b> Debugging, Profiling, Crashlytics, Unit & Integration Testing</li>
+  <li><b>Deployment & CI/CD:</b> Play Store Console, App Publishing, GitHub Actions</li>
+  <li><b>Agile & Collaboration:</b> Agile Methodologies, Sprint Planning, Code Reviews, Mentoring Juniors, Team Communication</li>
+</ul>
+
+<!-- Flutter Skills -->
+<h1>💙 Flutter Development</h1>
+<ul>
+  <li><b>Programming Languages & Concepts:</b> Dart, OOP, Design Patterns, Software Design</li>
+  <li><b>Architecture & Patterns:</b> State Management (GetX, Provider, Bloc, Riverpod)</li>
+  <li><b>Frameworks & Libraries:</b> Dio, Http, Firebase (Auth, Firestore, Analytics, Crashlytics)</li>
+  <li><b>UI/UX Development:</b> Flutter Widgets, Material Design, Responsive Layouts, Figma</li>
+  <li> RESTful APIs, JSON, Firebase, Google AdMob, Push Notifications</li>
+</ul>
+
+<!-- OFFICE & PROFESSIONAL SKILLS -->
+<h1>🧰 Office & Professional Skills</h1>
+<ul>
+  <li>Good Communication, Team Collaboration, Problem Solving, Requirement Analysis</li>
+  <li>Project Management, Time Management, Client Handling, Documentation</li>
+  <li>Task Prioritization, Work Under Pressure, Adaptability, Critical Thinking</li>
+  <li>Presentation, MS Office (Word, Excel, PowerPoint), Reporting, Agile & Scrum</li>
+  <li>Mentorship, Meeting Coordination</li>
+</ul>
+
  
 
 
