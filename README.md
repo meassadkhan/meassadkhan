@@ -87,7 +87,7 @@
   - Animations
   
 
-<h2>👨‍💻 Perssonal Projects</h2>
+<h2>👨‍💻 Personal Projects</h2>
 
 I manage my personal <a href="https://play.google.com/store/apps/developer?id=FutureAppsTechnologies&hl=en_US" target="_blank">
     Play Store Console
