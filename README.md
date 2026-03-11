@@ -4,13 +4,13 @@
 
 <b> <a href="https://github.com/meassadkhan/E_Commerce_Multi_Module_App" target="_blank"> E-Commerce Multi Module App </b>
 
--	Built a scalable Android application using Clean Architecture and MVVM with a multi-module structure.
--	Implemented Kotlin Coroutines and Flow for asynchronous and reactive data handling.
--	Integrated Retrofit for REST API communication and Room Database for offline caching.
--	Used Hilt Dependency Injection for modular and maintainable dependency management.
--	Implemented unit tests for repositories and ViewModels using MockK and Turbine.
--	Configured CI pipeline using GitHub Actions to automatically run tests on every push.
--	Integrated Firebase Crashlytics for crash monitoring.
+    -	Built a scalable Android application using Clean Architecture and MVVM with a multi-module structure.
+    -	Implemented Kotlin Coroutines and Flow for asynchronous and reactive data handling.
+    -	Integrated Retrofit for REST API communication and Room Database for offline caching.
+    -	Used Hilt Dependency Injection for modular and maintainable dependency management.
+    -	Implemented unit tests for repositories and ViewModels using MockK and Turbine.
+    -	Configured CI pipeline using GitHub Actions to automatically run tests on every push.
+    -	Integrated Firebase Crashlytics for crash monitoring.
 
 - <b> <a href="https://play.google.com/store/apps/details?id=com.cloudstorage.mycloud.storagespace.cloudapp" target="_blank"> Cloud Storage - Backup & Restore App</a></b> (1M+ Installs)
 
