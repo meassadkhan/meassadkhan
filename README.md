@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Mobile App Projects:</h2>
 
-<b> <a href="https://github.com/meassadkhan/E_Commerce_Multi_Module_App" target="_blank"> E-Commerce Multi Module App </b>
-
+- <b> <a href="https://github.com/meassadkhan/E_Commerce_Multi_Module_App" target="_blank"> E-Commerce Multi Module App </b>
     -	Built a scalable Android application using Clean Architecture and MVVM with a multi-module structure.
     -	Implemented Kotlin Coroutines and Flow for asynchronous and reactive data handling.
     -	Integrated Retrofit for REST API communication and Room Database for offline caching.
